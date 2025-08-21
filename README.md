@@ -20,6 +20,4 @@ O objetivo é implementar uma plataforma simples de blog onde seja possível vis
 - **CSS3** – estilização e layout
 - **JavaScript** – recursos dinâmicos
 
----
 
-## 📂 Estrutura do projeto
